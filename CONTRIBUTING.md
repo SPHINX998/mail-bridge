@@ -64,3 +64,15 @@ PR 描述最好包含：
 - 是否影响现有本地部署
 - 是否需要新增配置项
 - 是否需要用户重新授权或重启服务
+
+## GitHub 协作约定
+
+仓库已经补齐了这些基础协作文件：
+
+- Issue templates
+- Pull request template
+- CI workflow
+- `SECURITY.md`
+- `SUPPORT.md`
+
+如果你要提交公开协作相关改动，尽量与这些文件保持一致。

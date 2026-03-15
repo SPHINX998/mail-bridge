@@ -1,5 +1,9 @@
 # mail-bridge
 
+[![CI](https://github.com/SPHINX998/mail-bridge/actions/workflows/ci.yml/badge.svg)](https://github.com/SPHINX998/mail-bridge/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/SPHINX998/mail-bridge)](https://github.com/SPHINX998/mail-bridge/releases)
+[![License](https://img.shields.io/github/license/SPHINX998/mail-bridge)](https://github.com/SPHINX998/mail-bridge/blob/main/LICENSE)
+
 A self-hosted Gmail -> OpenClaw -> QQ mail importance bridge.
 
 `mail-bridge` 是一个**本地优先、实时、低打扰**的邮件提醒桥接系统。
@@ -74,6 +78,8 @@ Gmail new mail
 - 部署：`docs/DEPLOYMENT.md`
 - 使用：`docs/USAGE.md`
 - 前置条件：`docs/REQUIREMENTS.md`
+- 安全：`SECURITY.md`
+- 支持：`SUPPORT.md`
 
 ## 当前边界
 
@@ -145,6 +151,8 @@ powershell -ExecutionPolicy Bypass -File .\scripts\prepublish-check.ps1
 - `CONTRIBUTING.md`
 - `REPO-METADATA.md`
 - `AUTHORS.md`
+- `SECURITY.md`
+- `SUPPORT.md`
 
 ## 构建归属说明
 

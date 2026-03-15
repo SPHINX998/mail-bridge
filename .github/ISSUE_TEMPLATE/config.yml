@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Quickstart
+    url: https://github.com/SPHINX998/mail-bridge/blob/main/docs/QUICKSTART.md
+    about: Read the quickstart before opening a setup question.
+  - name: Operations runbook
+    url: https://github.com/SPHINX998/mail-bridge/blob/main/docs/runbooks/OPERATIONS.md
+    about: Check the operations runbook for health checks, logs, and common issues.
